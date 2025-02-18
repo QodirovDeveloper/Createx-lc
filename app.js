@@ -1,0 +1,1 @@
+alert('Assalomu Alaykum, ustoz. Men "JS"ni organishni boshladim.')
